@@ -47,15 +47,15 @@ pip install -r requirements.txt
 
 > Shows how blood pressure varies across different risk categories using a boxplot.
 
-![Blood Pressure by Risk](Output%20Plots/Blood_Pressure_by_RishCategory.png)
-
+![Blood Pressure by Risk](Output%20Plots/Blood_Pressure_by_RishCategory.PNG)
 
 
 ### 2️⃣ Patient Count by Region and Risk Category
 
 > Countplot showing how patients are distributed by region and categorized by risk.
 
-![Patient Count](Output%20Plots/patients%20in%20each%20RiskCategory%20per%20Region.png)
+![Patient Count](Output%20Plots/patients_in_each%20RiskCategory_per_Region.PNG)
+
 
 
 
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 > Compares results from `odeint` and `solve_ivp` in modeling a medication’s concentration over time.
 
-![ODE Solution](Output%20Plots/ODE%20solution%20for%20medication%20level%20over%20time.png)
+![ODE Solution](Output%20Plots/ODE_solution_for_medication_level_over_time.PNG)
 
 
 
