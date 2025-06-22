@@ -96,10 +96,13 @@ pip install -r requirements.txt
 ```
 📁 AI-Programming-Assignment/
 │
-├── assignment_code.ipynb                  # Jupyter notebook version
-├── assignment_code.py                     # Python script version
-├── requirements.txt                       # Required libraries
-├── README.md                              # This file
+├── Health_Analytics_Assignment.ipynb.ipynb                  # Jupyter notebook version
+├── requirements.txt                                         # Required libraries
+├── README.md                                                # This file
+├── Health_Analytics_Assignment.pdf                          #Assignment solvend pdf
+├── Health_Analytics_Assignment_Unsolved.pdf                 #Assignment Unsolvend pdf by sir
+├── cleaned_patient_data.csv                                 # Cleaned patient data
+├── patient_data.csv                                         # Given file by sir
 ├── Output Plots/
 │   ├── Blood_Pressure_by_RishCategory.png
 │   ├── ODE solution for medication level over time.png
